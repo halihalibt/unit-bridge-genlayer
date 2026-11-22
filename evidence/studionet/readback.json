@@ -1,0 +1,83 @@
+{
+  "address": "0x306025731f6BA798BFC5bD742614590d68ed6C6B",
+  "variant": "latest-final",
+  "qualified": {
+    "state": "QUALIFIED",
+    "parent": 0,
+    "descriptions": [
+      "Instantaneous outdoor air temperature at the sensor.",
+      "Change in temperature since the preceding observation."
+    ],
+    "units": [
+      "F",
+      "K"
+    ],
+    "classification": [
+      "POINT",
+      "DELTA"
+    ],
+    "coefficients": [
+      [
+        5,
+        -160000,
+        9
+      ],
+      [
+        1,
+        0,
+        1
+      ]
+    ]
+  },
+  "active": {
+    "state": "ACTIVE",
+    "parent": 0,
+    "descriptions": [
+      "Instantaneous outdoor air temperature at the sensor.",
+      "Change in temperature since the preceding observation."
+    ],
+    "units": [
+      "F",
+      "K"
+    ],
+    "classification": [
+      "POINT",
+      "DELTA"
+    ],
+    "coefficients": [
+      [
+        5,
+        -160000,
+        9
+      ],
+      [
+        1,
+        0,
+        1
+      ]
+    ]
+  },
+  "blocked": {
+    "state": "BLOCKED",
+    "parent": 1,
+    "descriptions": [
+      "Change in temperature since the preceding observation.",
+      "Instantaneous outdoor air temperature at the sensor."
+    ],
+    "units": [
+      "F",
+      "K"
+    ],
+    "classification": [
+      "DELTA",
+      "POINT"
+    ]
+  },
+  "converted": [
+    1,
+    180000,
+    9,
+    -2500,
+    1
+  ]
+}

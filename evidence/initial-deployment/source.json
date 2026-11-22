@@ -1,0 +1,8 @@
+{
+  "chainId": 61999,
+  "address": "0xB65662256312d02b5fDa97AaC322F613976c9014",
+  "sha256": "b87e491e68c505875b078cb4198294ee9f30f9ad5ae3391ca94fe2bc65f5e29b",
+  "bytes": 4781,
+  "method": "gen_getContractCode",
+  "byteMatch": true
+}
